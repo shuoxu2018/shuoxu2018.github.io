@@ -127,12 +127,13 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
   </div>
 </div>
 
+<!-- 🔹重要：在HTML块与下面的markdown列表之间空一行，否则会破坏渲染 -->
 
 - [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
 - [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
-- [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256). *Remote Sensing of Environment, 2021.* *(Top 1% most cited, >46,000 dataset accesses)*  
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
+
 
 ---
 
