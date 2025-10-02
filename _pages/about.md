@@ -89,6 +89,7 @@ I have authored over 11 papers in top journals and international AI conferences 
   </div>
 </div>
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -107,6 +108,7 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - Comprehensive review of methods for generating all-weather land surface temperature products integrating multiple satellite data sources.
   </div>
 </div>
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -127,6 +129,7 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
   </div>
 </div>
 
+
 <!-- 🔹重要：在HTML块与下面的markdown列表之间空一行，否则会破坏渲染 -->
 
 - [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
@@ -138,6 +141,7 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 ---
 
 # 🎖 Honors and Awards
+
 - *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
 - *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
 - *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
@@ -155,14 +159,17 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 ---
 
 # 💬 Conference Presentations
+
 - *2025.01* &nbsp;All-weather VIIRS LST: Machine Learning Based Methodology and Experiment — **AMS Annual Meeting**, New Orleans  
 - *2024.12* &nbsp;All-weather LST: Methodology and Experiment on JPSS/VIIRS LST — **AGU Fall Meeting**, Washington DC  
 - *2023.07* &nbsp;All-weather LST: Methodology and Experiment — **NOAA CoRP Science Symposium**, Madison WI  
 - *2022.12* &nbsp;Validation of gridded datasets of near-surface temperature variables — **AGU Fall Meeting**, Chicago IL  
 
+
 ---
 
 # 🧑‍🔬 Peer Review & Scientific Service
+
 - IGARSS 2025 Scientific Committee  
 - Program Reviewer, GeoIndustry Workshop @ ACM SIGSPATIAL 2025  
 - Reviewer for journals: *Remote Sensing of Environment, ESSD, IEEE TGRS, Scientific Data, IEEE JSTARS, GPS Solutions, Scientific Reports, JGR: Atmospheres, Environmental Monitoring and Assessment, Earth Science Informatics, PE&RS, Discover Cities, Environmental Earth Sciences, Theoretical and Applied Climatology*
