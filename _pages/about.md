@@ -17,42 +17,148 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 👋 About Me
 
+I am currently pursuing my PhD in the Department of Geographical Sciences at the University of Maryland, College Park.  
+My research explores remote sensing and knowledge-guided machine learning for understanding climate and ecosystems.  
+I have authored over 11 papers in top journals and international AI conferences with a total of 
+<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ'>Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+📧 Email: [shuoxu98@terpmail.umd.edu](mailto:shuoxu98@terpmail.umd.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shuoxuphd/) | [Google Scholar](https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en)
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
+- *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
+- *2014.09 – 2018.06* B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🔬 Research Interests
+- Remote Sensing and Multi-Source Data Fusion for Climate Solutions  
+- Machine Learning and Quantitative Analysis for Earth and Ecosystem Systems  
+- Time Series and Spatial Analysis to Identify High-Leverage Pathways for Climate Mitigation  
+
+---
+
+# 🛠 Technical Skills
+- **Programming & Analysis:** Python, MATLAB, IDL; HPC for Large-Scale Datasets  
+- **Geospatial Tools:** Google Earth Engine, ArcPro, ENVI, ERDAS  
+- **Machine Learning & Frameworks:** PyTorch, TensorFlow; Data-Driven & Physics-Guided ML  
+- **Specialties:** Spatial and Temporal Data Analysis, Climate & Ecosystem Modeling  
+
+---
+
+# 💼 Work Experience
+
+### Research Assistant — University of Maryland  
+*Sep 2021 – Present*  
+**NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
+- Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
+- Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
+- Applied spatial and temporal analyses to inform climate mitigation and policy.
+
+**NOAA-Funded Project: Enhancing NOAA VIIRS Land Surface Temperature Product**  
+- Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
+- Built data pipelines (Python/TensorFlow, MATLAB) to produce global LST time series and anomalies.  
+- Presented findings at AGU, AMS, and NOAA, recognized for applied climate solutions.
+
+---
+
+# 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">STOTEN 2024</div>
+      <img src='images/lst_tl_method.png' alt="LST TL Method" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
+**Shuo Xu**, Wang, D., Liang, S., Jia, A., Li, R., Wang, Z., & Liu, Y.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:ALROH1vI_8AC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- Publicly released the algorithm on Google Earth Engine to support broader applications.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE GRSM 2024</div>
+      <img src='images/lst_review.png' alt="LST Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A Comprehensive Review](https://doi.org/10.1109/MGRS.2024.3325375)  
+Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:IWHjjKOFINEC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:IWHjjKOFINEC'></span></strong>
+
+- Comprehensive review of methods for generating all-weather land surface temperature products integrating multiple satellite data sources.
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RSE 2021</div>
+      <img src='images/cdf_mkf.png' alt="CDF MKF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+**Shuo Xu**, Cheng, J.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+  </div>
+</div>
+
+
+- [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
+- [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
+- [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256). *Remote Sensing of Environment, 2021.* *(Top 1% most cited, >46,000 dataset accesses)*  
+- [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
+- [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
+
+---
+
+# 🎖 Honors and Awards
+- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland  
+- *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland  
+- *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland  
+- *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland  
+- *2024* &nbsp;🏆 First-class Scholarship, Beijing Normal University  
+- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University  
+
+---
+
+# 💬 Conference Presentations
+- *2025.01* &nbsp;All-weather VIIRS LST: Machine Learning Based Methodology and Experiment — **AMS Annual Meeting**, New Orleans  
+- *2024.12* &nbsp;All-weather LST: Methodology and Experiment on JPSS/VIIRS LST — **AGU Fall Meeting**, Washington DC  
+- *2023.07* &nbsp;All-weather LST: Methodology and Experiment — **NOAA CoRP Science Symposium**, Madison WI  
+- *2022.12* &nbsp;Validation of gridded datasets of near-surface temperature variables — **AGU Fall Meeting**, Chicago IL  
+
+---
+
+# 🧑‍🔬 Peer Review & Scientific Service
+- IGARSS 2025 Scientific Committee  
+- Program Reviewer, GeoIndustry Workshop @ ACM SIGSPATIAL 2025  
+- Reviewer for journals: *Remote Sensing of Environment, ESSD, IEEE TGRS, Scientific Data, IEEE JSTARS, GPS Solutions, Scientific Reports, JGR: Atmospheres, Environmental Monitoring and Assessment, Earth Science Informatics, PE&RS, Discover Cities, Environmental Earth Sciences, Theoretical and Applied Climatology*
+
+
+
+
