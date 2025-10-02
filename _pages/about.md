@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 # 👋 About Me
 
 I am currently pursuing my PhD in the Department of Geographical Sciences at the University of Maryland, College Park.  
 My research explores remote sensing and knowledge-guided machine learning for understanding climate and ecosystems.  
 I have authored over 11 papers in top journals and international AI conferences with a total of 
-<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>.
 
 📧 Email: [shuoxu98@terpmail.umd.edu](mailto:shuoxu98@terpmail.umd.edu)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shuoxuphd/) | [Google Scholar](https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en)
@@ -130,13 +129,14 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 </div>
 
 
-<!-- 🔹重要：在HTML块与下面的markdown列表之间空一行，否则会破坏渲染 -->
+<!-- end of publications -->
+
+
 
 - [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
 - [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
-
 
 ---
 
@@ -155,7 +155,6 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
 - *2020* &nbsp;🏆 First-class Scholarship, Beijing Normal University
 
-
 ---
 
 # 💬 Conference Presentations
@@ -165,7 +164,6 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - *2023.07* &nbsp;All-weather LST: Methodology and Experiment — **NOAA CoRP Science Symposium**, Madison WI  
 - *2022.12* &nbsp;Validation of gridded datasets of near-surface temperature variables — **AGU Fall Meeting**, Chicago IL  
 
-
 ---
 
 # 🧑‍🔬 Peer Review & Scientific Service
@@ -173,7 +171,3 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - IGARSS 2025 Scientific Committee  
 - Program Reviewer, GeoIndustry Workshop @ ACM SIGSPATIAL 2025  
 - Reviewer for journals: *Remote Sensing of Environment, ESSD, IEEE TGRS, Scientific Data, IEEE JSTARS, GPS Solutions, Scientific Reports, JGR: Atmospheres, Environmental Monitoring and Assessment, Earth Science Informatics, PE&RS, Discover Cities, Environmental Earth Sciences, Theoretical and Applied Climatology*
-
-
-
-
