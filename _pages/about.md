@@ -29,15 +29,6 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
-# 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
-
-
-# 📖 Educations
-- *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
-- *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
-- *2014.09 – 2018.06* B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
-
 ---
 
 # 🔬 Research Interests
@@ -55,39 +46,8 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
-# 💼 Work Experience
-
-### Research Assistant — University of Maryland  
-*Sep 2021 – Present*  
-**NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
-- Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
-- Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
-- Applied spatial and temporal analyses to inform climate mitigation and policy.
-
-**NOAA-Funded Project: Enhancing NOAA VIIRS Land Surface Temperature Product**  
-- Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
-- Built data pipelines (Python/TensorFlow, MATLAB) to produce global LST time series and anomalies.  
-- Presented findings at AGU, AMS, and NOAA, recognized for applied climate solutions.
-
----
-
-# 🎖 Honors and Awards
-
-- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
-- *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
-- *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland
-- *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
-- *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
-- *2022* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
-- *2021* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
-- *2021* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
-- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
-- *2019* &nbsp;🏆 First-class Scholarship, Beijing Normal University
-
----
-
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
 
 # 📝 Publications
 
@@ -153,5 +113,47 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
 
 ---
+
+# 🎖 Honors and Awards
+
+- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
+- *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
+- *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
+- *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland
+- *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
+- *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
+- *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
+- *2022* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
+- *2021* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
+- *2021* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
+- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
+- *2019* &nbsp;🏆 First-class Scholarship, Beijing Normal University
+
+---
+
+# 📖 Educations
+- *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
+- *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
+- *2014.09 – 2018.06* B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
+
+# 💼 Work Experience
+
+### Research Assistant — University of Maryland  
+*Sep 2021 – Present*  
+**NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
+- Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
+- Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
+- Applied spatial and temporal analyses to inform climate mitigation and policy.
+
+**NOAA-Funded Project: Enhancing NOAA VIIRS Land Surface Temperature Product**  
+- Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
+- Built data pipelines (Python/TensorFlow, MATLAB) to produce global LST time series and anomalies.  
+- Presented findings at AGU, AMS, and NOAA, recognized for applied climate solutions.
+
+---
+
+
+
+
 
 
