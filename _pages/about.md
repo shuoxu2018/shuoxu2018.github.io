@@ -71,6 +71,24 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
+# 🎖 Honors and Awards
+
+- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
+- *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
+- *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
+- *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland
+- *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
+- *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
+- *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
+- *2022* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
+- *2021* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
+- *2021* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
+- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
+- *2019* &nbsp;🏆 First-class Scholarship, Beijing Normal University
+
+---
+
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -136,17 +154,4 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 
 ---
 
-# 🎖 Honors and Awards
 
-- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
-- *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
-- *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland
-- *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
-- *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
-- *2022* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
-- *2021* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
-- *2021* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
-- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
-- *2019* &nbsp;🏆 First-class Scholarship, Beijing Normal University
