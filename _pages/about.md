@@ -122,8 +122,8 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RSE 2021</div>
-      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+      <div class="badge">NeurIPS 2025</div>
+      <img src='images/Carbon.png' alt="CDF MKF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -138,7 +138,7 @@ Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN 2024</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/SimFair.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SimFair: Physics-Guided Fairness-Aware Learning with Simulation Models](https://arxiv.org/abs/2401.15270)  
