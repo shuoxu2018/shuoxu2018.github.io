@@ -29,6 +29,10 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
+
+---
 
 # 🔬 Research Interests
 - Remote Sensing and Multi-Source Data Fusion  
@@ -44,9 +48,6 @@ I have authored over 11 papers in top journals and international AI conferences 
 - **Specialties:** Spatial and Temporal Data Analysis, Climate & Ecosystem Modeling  
 
 ---
-
-# 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
 
 # 📝 Publications
 
