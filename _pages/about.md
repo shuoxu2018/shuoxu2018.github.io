@@ -83,10 +83,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
   **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
 
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:WF5omc3nYNoC)
-  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:WF5omc3nYNoC'></span></strong>
 
-  - Publicly released the algorithm on Google Earth Engine to support broader applications.
 </div>
 </div>
 
@@ -96,21 +93,20 @@ I have authored over 11 papers in top journals and international AI conferences 
   <div class='paper-box-image'>
     <div>
       <div class="badge"> Int. J. Appl. Earth Obs. Geoinf 2023</div>
-      <img src='images/vali.jpg' alt="CDF MKF" width="100%">
+      <img src='images/vali.png' alt="CDF MKF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://ieeexplore.ieee.org/abstract/document/10242120)  
+[Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://www.sciencedirect.com/science/article/pii/S1569843223001693)  
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
 
-[**Project**]( https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&sortby=pubdate&citation_for_view=f0840jkAAAAJ:Tyk-4Ss8FVUC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:Tyk-4Ss8FVUC' ></span></strong>
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2023</div><img src='images/trend.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2023</div><img src='images/trend.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Assessing the reliability of the MODIS LST product to detect temporal variability](https://ieeexplore.ieee.org/abstract/document/10242120)  
@@ -133,7 +129,6 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
 
-- 
 </div>
 </div>
 
@@ -146,11 +141,10 @@ I have authored over 11 papers in top journals and international AI conferences 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://www.mdpi.com/2072-4292/13/11/2211)  
+[Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://ieeexplore.ieee.org/document/8745679)  
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
 
-- 
 </div>
 </div>
 
@@ -167,7 +161,6 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu, **Shuo Xu**.
 
-- 
 </div>
 </div>
 
@@ -184,7 +177,6 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
 
-- 
 </div>
 </div>
 
@@ -201,7 +193,6 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
 
 Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 
-- 
 </div>
 </div>
 
