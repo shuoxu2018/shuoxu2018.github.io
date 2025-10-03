@@ -29,12 +29,11 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
----
 
 # 🔬 Research Interests
-- Remote Sensing and Multi-Source Data Fusion for Climate Solutions  
-- Machine Learning and Quantitative Analysis for Earth and Ecosystem Systems  
-- Time Series and Spatial Analysis to Identify High-Leverage Pathways for Climate Mitigation  
+- Remote Sensing and Multi-Source Data Fusion  
+- Knowledge-guided Machine Learning and Quantitative Analysis  
+- Time Series Prediction and Analysis  
 
 ---
 
@@ -50,6 +49,26 @@ I have authored over 11 papers in top journals and international AI conferences 
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RSE 2021</div>
+      <img src='images/cdf_mkf.png' alt="CDF MKF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+
+**Shuo Xu**, Cheng, J.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,25 +104,7 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RSE 2021</div>
-      <img src='images/cdf_mkf.png' alt="CDF MKF" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
-
-**Shuo Xu**, Cheng, J.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
-
-- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
-</div>
-</div>
 
 <div style="clear: both;"></div>
 
