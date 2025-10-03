@@ -29,6 +29,10 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
+# 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
+
+
 # 📖 Educations
 - *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
 - *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
@@ -69,23 +73,18 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 # 📝 Publications
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">STOTEN 2024</div>
-      <img src='images/lst_tl_method.png' alt="LST TL Method" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
+
 **Shuo Xu**, Wang, D., Liang, S., Jia, A., Li, R., Wang, Z., & Liu, Y.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:ALROH1vI_8AC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:ALROH1vI_8AC'></span></strong>
 
 - Publicly released the algorithm on Google Earth Engine to support broader applications.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -98,13 +97,14 @@ I have authored over 11 papers in top journals and international AI conferences 
   <div class='paper-box-text' markdown="1">
 
 [Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A Comprehensive Review](https://doi.org/10.1109/MGRS.2024.3325375)  
+
 Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:IWHjjKOFINEC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:IWHjjKOFINEC'></span></strong>
 
 - Comprehensive review of methods for generating all-weather land surface temperature products integrating multiple satellite data sources.
-  </div>
+</div>
 </div>
 
 <div class='paper-box'>
@@ -117,13 +117,14 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
   <div class='paper-box-text' markdown="1">
 
 [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+
 **Shuo Xu**, Cheng, J.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
-  </div>
+</div>
 </div>
 
 <div style="clear: both;"></div>
@@ -144,4 +145,8 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
 - *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
 - *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Jacob K. Go
+- *2022* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
+- *2021* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
+- *2021* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
+- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
+- *2019* &nbsp;🏆 First-class Scholarship, Beijing Normal University
