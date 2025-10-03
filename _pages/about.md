@@ -54,34 +54,62 @@ I have authored over 11 papers in top journals and international AI conferences 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RSE 2021</div>
-      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+      <div class="badge"> Int. J. Appl. Earth Obs. Geoinf 2023</div>
+      <img src='images/vali.jpg' alt="CDF MKF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+[Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://ieeexplore.ieee.org/abstract/document/10242120)  
 
-**Shuo Xu**, Jie Cheng.
+**Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:d1gkVwhDpl0C)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+[**Project**]( https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&sortby=pubdate&citation_for_view=f0840jkAAAAJ:Tyk-4Ss8FVUC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:Tyk-4Ss8FVUC' ></span></strong>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN 2024</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2023</div><img src='images/trend.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
+[Assessing the reliability of the MODIS LST product to detect temporal variability](https://ieeexplore.ieee.org/abstract/document/10242120)  
 
-**Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
+**Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:WF5omc3nYNoC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:WF5omc3nYNoC'></span></strong>
+</div>
+</div>
 
-- Publicly released the algorithm on Google Earth Engine to support broader applications.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RS 2021</div>
+      <img src='images/rf.png' alt="LST Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://www.mdpi.com/2072-4292/13/11/2211)  
+
+**Shuo Xu**, Jie Cheng, Qiang Zhang.
+
+- 
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE JSTARS 2019</div>
+      <img src='images/bme.png' alt="LST Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://www.mdpi.com/2072-4292/13/11/2211)  
+
+**Shuo Xu**, Jie Cheng, Qiang Zhang.
+
+- 
 </div>
 </div>
 
@@ -89,32 +117,58 @@ I have authored over 11 papers in top journals and international AI conferences 
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE GRSM 2024</div>
-      <img src='images/lst_review.png' alt="LST Review" width="100%">
+      <img src='images/review.png' alt="LST Review" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A Comprehensive Review](https://ieeexplore.ieee.org/document/10679195)  
+[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A comprehensive review](https://ieeexplore.ieee.org/document/10679195)  
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu, **Shuo Xu**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:IWHjjKOFINEC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:IWHjjKOFINEC'></span></strong>
+- 
+</div>
+</div>
 
-- Comprehensive review of methods for generating all-weather land surface temperature products integrating multiple satellite data sources.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ESSD 2023</div>
+      <img src='images/essd.png' alt="LST Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Global hourly, 5 km, all-sky land surface temperature data from 2011 to 2021 based on integrating geostationary and polar-orbiting satellite data](https://essd.copernicus.org/articles/15/869/2023/)  
+
+Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
+
+- 
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE JSTARS 2020</div>
+      <img src='images/downscaling.png' alt="LST Review" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A stepwise downscaling method for generating high-resolution land surface temperature from AMSR-E data](https://ieeexplore.ieee.org/document/9190035)  
+
+Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
+
+- 
 </div>
 </div>
 
 
 
 <div style="clear: both;"></div>
-
-- [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
-- [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
-- [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
-- [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
-
 ---
+
 
 
 # 📝 Publications - CS Conference Paper
