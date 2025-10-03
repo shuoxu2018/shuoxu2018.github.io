@@ -133,7 +133,6 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
 
-
 ---
 
 # 🎖 Honors and Awards
@@ -145,25 +144,4 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - *2024* &nbsp;🏆 Excellence in Graduate Research Award (Third Place), University of Maryland
 - *2024* &nbsp;🏆 Jingli Yang Summer Research Fellowship, University of Maryland
 - *2024* &nbsp;🏆 Graduate Travel Fellowship, University of Maryland
-- *2024* &nbsp;🏆 Jacob K. Goldhaber Travel Grant, University of Maryland
-- *2020* &nbsp;🏆 Outstanding Graduate, Beijing Normal University
-- *2020* &nbsp;🏆 Zhou Tingru Scholarship, Beijing Normal University
-- *2020* &nbsp;🏆 National Scholarship, Beijing Normal University
-- *2020* &nbsp;🏆 First-class Scholarship, Beijing Normal University
-
----
-
-# 💬 Conference Presentations
-
-- *2025.01* &nbsp;All-weather VIIRS LST: Machine Learning Based Methodology and Experiment — **AMS Annual Meeting**, New Orleans  
-- *2024.12* &nbsp;All-weather LST: Methodology and Experiment on JPSS/VIIRS LST — **AGU Fall Meeting**, Washington DC  
-- *2023.07* &nbsp;All-weather LST: Methodology and Experiment — **NOAA CoRP Science Symposium**, Madison WI  
-- *2022.12* &nbsp;Validation of gridded datasets of near-surface temperature variables — **AGU Fall Meeting**, Chicago IL  
-
----
-
-# 🧑‍🔬 Peer Review & Scientific Service
-
-- IGARSS 2025 Scientific Committee  
-- Program Reviewer, GeoIndustry Workshop @ ACM SIGSPATIAL 2025  
-- Reviewer for journals: *Remote Sensing of Environment, ESSD, IEEE TGRS, Scientific Data, IEEE JSTARS, GPS Solutions, Scientific Reports, JGR: Atmospheres, Environmental Monitoring and Assessment, Earth Science Informatics, PE&RS, Discover Cities, Environmental Earth Sciences, Theoretical and Applied Climatology*
+- *2024* &nbsp;🏆 Jacob K. Go
