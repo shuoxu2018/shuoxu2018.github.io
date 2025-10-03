@@ -55,7 +55,7 @@ I have authored over 11 papers in top journals and international AI conferences 
   <div class='paper-box-image'>
     <div>
       <div class="badge">RSE 2021</div>
-      <img src='images/cdf_mkf.png' alt="CDF MKF" width="100%">
+      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -71,7 +71,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
