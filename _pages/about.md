@@ -62,7 +62,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
 
-**Shuo Xu**, Cheng, J.
+**Shuo Xu**, Jie Cheng.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
@@ -71,12 +71,12 @@ I have authored over 11 papers in top journals and international AI conferences 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN 2024</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
 
-**Shuo Xu**, Wang, D., Liang, S., Jia, A., Li, R., Wang, Z., & Liu, Y.
+**Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, & Yuling Liu.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:ALROH1vI_8AC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -94,9 +94,9 @@ I have authored over 11 papers in top journals and international AI conferences 
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A Comprehensive Review](https://doi.org/10.1109/MGRS.2024.3325375)  
+[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A Comprehensive Review](https://ieeexplore.ieee.org/document/10679195)  
 
-Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
+Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu, **Shuo Xu**.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:IWHjjKOFINEC)
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:IWHjjKOFINEC'></span></strong>
@@ -113,6 +113,46 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 - [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RSE 2021</div>
+      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+
+**Shuo Xu**, Cheng, J.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RSE 2021</div>
+      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+
+**Shuo Xu**, Cheng, J.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+</div>
+</div>
 
 ---
 
