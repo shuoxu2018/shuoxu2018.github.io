@@ -50,6 +50,47 @@ I have authored over 11 papers in top journals and international AI conferences 
 ---
 
 # 📝 Publications - Journal Paper
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">RSE 2021</div>
+      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+
+  **Shuo Xu**, Jie Cheng.
+
+  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:d1gkVwhDpl0C)
+  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+  - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">STOTEN 2024</div>
+      <img src='images/trans.jpg' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
+
+  **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
+
+  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:WF5omc3nYNoC)
+  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:WF5omc3nYNoC'></span></strong>
+
+  - Publicly released the algorithm on Google Earth Engine to support broader applications.
+</div>
+</div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
