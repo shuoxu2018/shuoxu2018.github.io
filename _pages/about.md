@@ -88,7 +88,6 @@ I have authored over 11 papers in top journals and international AI conferences 
   </div>
 </div>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -108,7 +107,6 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
   </div>
 </div>
 
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -125,18 +123,16 @@ Jia, A., Liang, S., Wang, D., Mallick, K., Zhou, S., Hu, T., **Shuo Xu**, et al.
 <strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
-</div>
+  </div>
 </div>
 
-<!-- end of publications -->
 <div style="clear: both;"></div>
-
-{: .clearfix}
 
 - [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://doi.org/10.1016/j.jag.2023.103347). *International Journal of Applied Earth Observation and Geoinformation, 2023.*  
 - [Assessing the reliability of the MODIS LST product to detect temporal variability](https://doi.org/10.1109/LGRS.2023.3268803). *IEEE GRSL, 2023.*  
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
+
 
 ---
 
