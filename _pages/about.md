@@ -49,7 +49,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
-# 📝 Publications
+# 📝 Publications - Journal Paper
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -64,8 +64,8 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 **Shuo Xu**, Jie Cheng.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:d1gkVwhDpl0C)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
 </div>
@@ -76,10 +76,10 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
 
-**Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, & Yuling Liu.
+**Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:ALROH1vI_8AC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:WF5omc3nYNoC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:WF5omc3nYNoC'></span></strong>
 
 - Publicly released the algorithm on Google Earth Engine to support broader applications.
 </div>
@@ -114,25 +114,9 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
 - [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://doi.org/10.3390/rs13112211). *Remote Sensing, 2021.*  
 - [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://doi.org/10.1109/JSTARS.2019.2927726). *IEEE JSTARS, 2019.*  
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">RSE 2021</div>
-      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+---
 
-[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
-
-**Shuo Xu**, Cheng, J.
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
-
-- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
-</div>
-</div>
+# 📝 Publications - CS Conference Paper
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -143,18 +127,32 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
   </div>
   <div class='paper-box-text' markdown="1">
 
-[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+[Carbon-Bench: A Forty-year Global-scale Benchmark Dataset for Carbon Forecasting in Forest Ecosystems](https://arxiv.org/abs/2401.15270)  
 
-**Shuo Xu**, Cheng, J.
+Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:u-x6o8ySG0sC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:0EnyYjriUFMC)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:0EnyYjriUFMC'></span></strong>
 
-- Ranked among the top 1% most-cited Environment/Ecology articles published in 2021; method adopted to generate widely used temperature datasets.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">STOTEN 2024</div><img src='images/trans.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SimFair: Physics-Guided Fairness-Aware Learning with Simulation Models](https://arxiv.org/abs/2401.15270)  
+
+Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:YsMSGLbcyi4C)
+<strong><span class='show_paper_citations' data='f0840jkAAAAJ:YsMSGLbcyi4C'></span></strong>
+
+- .
 </div>
 </div>
 
 ---
+
 
 # 🎖 Honors and Awards
 
