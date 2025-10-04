@@ -49,11 +49,12 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
-# 📝 Publications - Journal Paper
+# 📝 Publications <span style="font-size:0.8em;">(<span style="background:#00369f;color:white;padding:2px 6px;border-radius:4px;">Journal</span> <span style="background:#2e7d32;color:white;padding:2px 6px;border-radius:4px;">Conference</span>)</span>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RSE 2021</div>
+      <div class="badge badge-journal">RSE 2021</div>
       <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
     </div>
   </div>
@@ -74,7 +75,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">STOTEN 2024</div>
+      <div class="badge badge-journal">STOTEN 2024</div>
       <img src='images/trans.jpg' alt="sym" width="100%">
     </div>
   </div>
@@ -84,16 +85,13 @@ I have authored over 11 papers in top journals and international AI conferences 
 
   **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
 
-
 </div>
 </div>
-
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge"> Int. J. Appl. Earth Obs. Geoinf 2023</div>
+      <div class="badge badge-journal">Int. J. Appl. Earth Obs. Geoinf 2023</div>
       <img src='images/vali.png' alt="CDF MKF" width="100%">
     </div>
   </div>
@@ -103,12 +101,17 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
 
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE GRSL 2023</div><img src='images/trend.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-journal">IEEE GRSL 2023</div>
+      <img src='images/trend.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [Assessing the reliability of the MODIS LST product to detect temporal variability](https://ieeexplore.ieee.org/abstract/document/10242120)  
 
@@ -120,7 +123,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">RS 2021</div>
+      <div class="badge badge-journal">RS 2021</div>
       <img src='images/rf.png' alt="LST Review" width="100%">
     </div>
   </div>
@@ -136,7 +139,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE JSTARS 2019</div>
+      <div class="badge badge-journal">IEEE JSTARS 2019</div>
       <img src='images/bme.png' alt="LST Review" width="100%">
     </div>
   </div>
@@ -152,7 +155,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE GRSM 2024</div>
+      <div class="badge badge-journal">IEEE GRSM 2024</div>
       <img src='images/review.png' alt="LST Review" width="100%">
     </div>
   </div>
@@ -168,7 +171,7 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ESSD 2023</div>
+      <div class="badge badge-journal">ESSD 2023</div>
       <img src='images/essd.png' alt="LST Review" width="100%">
     </div>
   </div>
@@ -184,7 +187,7 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE JSTARS 2020</div>
+      <div class="badge badge-journal">IEEE JSTARS 2020</div>
       <img src='images/downscaling.png' alt="LST Review" width="100%">
     </div>
   </div>
@@ -197,20 +200,11 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 </div>
 </div>
 
-
-
-<div style="clear: both;"></div>
----
-
-
-
-# 📝 Publications - CS Conference Paper
-
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">NeurIPS 2025</div>
-      <img src='images/Carbon.png' alt="CDF MKF" width="100%">
+      <div class="badge badge-conference">NeurIPS 2025</div>
+      <img src='images/Carbon.png' alt="Carbon Bench" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -219,21 +213,27 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 
 Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
 
-
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/SimFair.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-conference">AAAI 2024</div>
+      <img src='images/SimFair.png' alt="SimFair" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 [SimFair: Physics-Guided Fairness-Aware Learning with Simulation Models](https://arxiv.org/abs/2401.15270)  
 
 Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
 
+</div>
+</div>
 
-</div>
-</div>
+<div style="clear: both;"></div>
+
 
 ---
 
