@@ -280,6 +280,25 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
+# 🎤 Conference Presentations
+
+- **Shuo Xu**, Yuling Liu. *All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025.  
+- **Shuo Xu**, Yuling Liu, Yuyu Yu, Peng Yu. *All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
+- **Shuo Xu**, Yuling Liu, Yuyu Yu, Peng Yu. *All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023.  
+- **Shuo Xu**, Dongdong Wang. *Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias.* American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022.  
+- Yuling Liu, Yuyu Yu, Peng Yu, **Shuo Xu**, Hongbo Wang. *Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
+
+---
+
+# 🛡️ Peer Review & Scientific Committee Service
+
+- **IGARSS 2025 Scientific Committee**
+- **GeoIndustry Workshop at ACM SIGSPATIAL 2025 Program Reviewer**
+- **Reviewer for 13 International Journals**, including:  
+  Remote Sensing of Environment; Earth System Science Data; IEEE Transactions on Geoscience and Remote Sensing; Scientific Data; IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing; GPS Solutions; Scientific Reports; Journal of Geophysical Research: Atmospheres; Environmental Monitoring and Assessment; Earth Science Informatics; Photogrammetric Engineering and Remote Sensing; Discover Cities; Environmental Earth Sciences; Theoretical and Applied Climatology.  
+
+---
+
 
 
 
