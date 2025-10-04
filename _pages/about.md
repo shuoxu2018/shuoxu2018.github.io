@@ -49,7 +49,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
-# 📝 Publications <span style="font-size:0.8em;">(<span style="background:#00369f;color:white;padding:2px 6px;border-radius:4px;">Journal</span> <span style="background:#2e7d32;color:white;padding:2px 6px;border-radius:4px;">Conference</span>)</span>
+# 📝 Peer-review Publications <span style="font-size:0.8em;">(<span style="background:#00369f;color:white;padding:2px 6px;border-radius:4px;">Journal</span> <span style="background:#2e7d32;color:white;padding:2px 6px;border-radius:4px;">Conference</span>)</span>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
