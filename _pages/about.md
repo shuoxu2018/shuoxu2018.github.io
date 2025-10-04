@@ -28,6 +28,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
 
@@ -48,6 +49,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 ---
 
+<span class='anchor' id='publications'></span>
 # 📝 Peer-review Publications
 
 <span style="background-color:#1E90FF;color:white;padding:2px 6px;border-radius:4px;">Journal Paper</span>
@@ -241,8 +243,8 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
-
-# 🎖 Honors and Awards
+<span class='anchor' id='awards'></span>
+# 🏅 Honors and Awards
 
 - *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
 - *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
@@ -259,12 +261,18 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
+
 - *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
 - *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
 - *2014.09 – 2018.06* B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
 
+---
+
+<span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
+
 
 ### Research Assistant — University of Maryland  
 *Sep 2021 – Present*  
@@ -280,7 +288,8 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
-# 🎤 Conference Presentations
+<span class='anchor' id='conference'></span>
+# 🎙️ Conference Presentations
 
 - **Shuo Xu**, Yuling Liu. *All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025.  
 - **Shuo Xu**, Yuling Liu, Yuyu Yu, Peng Yu. *All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
@@ -290,7 +299,8 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
-# 🛡️ Peer Review & Scientific Committee Service
+<span class='anchor' id='service'></span>
+# 🤝 Peer Review & Scientific Committee Service
 
 - **IGARSS 2025 Scientific Committee**
 - **GeoIndustry Workshop at ACM SIGSPATIAL 2025 Program Reviewer**
