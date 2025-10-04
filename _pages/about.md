@@ -43,10 +43,10 @@ I have **authored over 11 papers** in top journals and international AI conferen
 ---
 
 # 🛠 Technical Skills
-- **Programming & Analysis:** Python, MATLAB, IDL; HPC for Large-Scale Datasets  
+- **Programming & Analysis:** Python, MATLAB, IDL; High Performance Computing for Large-Scale Datasets  
 - **Geospatial Tools:** Google Earth Engine, ArcPro, ENVI, ERDAS  
-- **Machine Learning & Frameworks:** PyTorch, TensorFlow; Data-Driven & Physics-Guided ML  
-- **Specialties:** Spatial and Temporal Data Analysis, Climate & Ecosystem Modeling  
+- **Machine Learning & Frameworks:** PyTorch, TensorFlow; Data-Driven & Knowledge-Guided Machine Learning  
+- **Specialties:** Temporal Prediction, Spatial and Temporal Data Analysis, and Ecosystem Modeling  
 
 ---
 
