@@ -104,6 +104,21 @@ h1:before, .anchor:before {
     margin-top: .5em;
     margin-left: -.5em;
     color: white;
-    background-color: #00369f;
     font-size: .8em;
+    border-radius: 4px;      // ⭐⭐改动：增加圆角
+    font-weight: bold;       // ⭐⭐改动：加粗文字
+}
+
+/* ================== 不同类型颜色 ================== */
+// ⭐⭐新增：给 Journal/Conference 分类不同颜色
+.badge-journal {
+    background-color: #00369f; /* 深蓝色 Journal */
+}
+
+.badge-conference {
+    background-color: #2e7d32; /* 绿色 Conference */
+}
+
+.badge-default {
+    background-color: #555; /* 默认灰色 */
 }
