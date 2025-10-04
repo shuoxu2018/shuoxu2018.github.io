@@ -97,6 +97,7 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+/* ===== Badge color customization ===== */
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -105,20 +106,16 @@ h1:before, .anchor:before {
     margin-left: -.5em;
     color: white;
     font-size: .8em;
-    border-radius: 4px;      // ⭐⭐改动：增加圆角
-    font-weight: bold;       // ⭐⭐改动：加粗文字
+    border-radius: 4px;   /* 圆角 */
 }
 
-/* ================== 不同类型颜色 ================== */
-// ⭐⭐新增：给 Journal/Conference 分类不同颜色
-.badge-journal {
-    background-color: #00369f; /* 紫色 Journal */
+/* Journal Papers → 蓝色 */
+.badge.journal {
+    background-color: #1E90FF; /* 这个是你给的蓝色 */
 }
 
-.badge-conference {
-    background-color: #9932CC; /* 绿色 Conference */
+/* Conference Papers → 绿色 */
+.badge.conference {
+    background-color: #2E8B57; /* 这个是你给的绿色 */
 }
 
-.badge-default {
-    background-color: #008000; /* 默认深蓝色 */
-}
