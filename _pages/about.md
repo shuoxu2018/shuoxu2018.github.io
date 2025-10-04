@@ -19,13 +19,12 @@ redirect_from:
 
 # 👋 About Me
 
-I am currently pursuing my PhD in the Department of Geographical Sciences at the University of Maryland, College Park.  
-My research explores remote sensing and knowledge-guided machine learning for understanding climate and ecosystems.  
+I am a Ph.D. candidate in the Department of Geographical Sciences at the University of Maryland, USA. 
+My primary research interests focus on remote sensing and machine learning, with expertise in land surface variable retrieval, data downscaling and multi-source data fusion, all-weather product development, knowledge-guided machine learning, and tackling related scientific challenges.   
 I have authored over 11 papers in top journals and international AI conferences with a total of 
 <a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>.
 
 📧 Email: [shuoxu98@terpmail.umd.edu](mailto:shuoxu98@terpmail.umd.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shuoxuphd/) | [Google Scholar](https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en)
 
 ---
 
