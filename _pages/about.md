@@ -51,8 +51,8 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 # 📝 Peer-review Publications
 
-<span style="background-color:#9932CC;color:white;padding:2px 6px;border-radius:4px;">Journal Paper</span>
-<span style="background-color:#008000;color:white;padding:2px 6px;border-radius:4px;">Conference Paper*</span> &nbsp;&nbsp;
+<span style="background-color:#1E90FF;color:white;padding:2px 6px;border-radius:4px;">Journal Paper</span>
+<span style="background-color:#2E8B57;color:white;padding:2px 6px;border-radius:4px;">Conference Paper*</span> &nbsp;&nbsp;
 
 
 
