@@ -69,7 +69,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
   **Shuo Xu**, Jie Cheng.
 
-  **Citations:** <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
+  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
