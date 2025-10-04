@@ -24,8 +24,6 @@ My primary research interests focus on **remote sensing and knowledge-guided mac
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
 <a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>, and serve as a **reviewer for 13 international journals**, including Remote Sensing of Environment (RSE) (IF = 11.4).
 
-📧 Email: [shuoxu98@terpmail.umd.edu](mailto:shuoxu98@terpmail.umd.edu)  
-
 ---
 
 <span class='anchor' id='news'></span>
