@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shuo Xu"
+title: "Shuo Xu"
 description: >
   PhD Candidate at University of Maryland, Remote Sensing & Machine Learning.
   Reviewer for 13 international journals and Scientific/Program Committee Member.
-repository               : "shuoxu2018/shuoxu2018.github.io"
+repository: "shuoxu2018/shuoxu2018.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
