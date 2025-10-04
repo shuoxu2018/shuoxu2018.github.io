@@ -33,6 +33,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 - *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (IF = 8.0)**!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (IF = 16.4)**!
 - *2024.03*: &nbsp;🎉🎉 Paper published by **AAAI 2024**!
+
 ---
 
 # 🔬 Research Interests
@@ -271,7 +272,6 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 <span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
 
-
 ### Research Assistant — University of Maryland  
 *Sep 2021 – Present*  
 **NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
@@ -283,6 +283,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 - Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
 - Built data pipelines (Python/TensorFlow, MATLAB) to produce global LST time series and anomalies.  
 - Presented findings at AGU and AMS conferences.
+
 
 ---
 
