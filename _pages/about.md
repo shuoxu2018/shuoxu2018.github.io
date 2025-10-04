@@ -295,7 +295,20 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 - **IGARSS 2025 Scientific Committee**
 - **GeoIndustry Workshop at ACM SIGSPATIAL 2025 Program Reviewer**
 - **Reviewer for 13 International Journals**, including:  
-  Remote Sensing of Environment; Earth System Science Data; IEEE Transactions on Geoscience and Remote Sensing; Scientific Data; IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing; GPS Solutions; Scientific Reports; Journal of Geophysical Research: Atmospheres; Environmental Monitoring and Assessment; Earth Science Informatics; Photogrammetric Engineering and Remote Sensing; Discover Cities; Environmental Earth Sciences; Theoretical and Applied Climatology.  
+  - Remote Sensing of Environment  
+  - Earth System Science Data  
+  - IEEE Transactions on Geoscience and Remote Sensing  
+  - Scientific Data  
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing  
+  - GPS Solutions  
+  - Scientific Reports  
+  - Journal of Geophysical Research: Atmospheres  
+  - Environmental Monitoring and Assessment  
+  - Earth Science Informatics  
+  - Photogrammetric Engineering and Remote Sensing  
+  - Discover Cities  
+  - Environmental Earth Sciences  
+  - Theoretical and Applied Climatology    
 
 ---
 
