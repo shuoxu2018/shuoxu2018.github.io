@@ -79,7 +79,7 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
-  - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times for climate studies.
+  - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times worldwide.
 </div>
 </div>
 
