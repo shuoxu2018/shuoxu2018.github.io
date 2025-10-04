@@ -277,22 +277,22 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 **NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
 - Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
 - Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
-- Applied spatial and temporal analyses to inform climate mitigation and policy.
+- Applied spatial and temporal analyses.
 
 **NOAA-Funded Project: Enhancing NOAA VIIRS Land Surface Temperature Product**  
 - Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
 - Built data pipelines (Python/TensorFlow, MATLAB) to produce global LST time series and anomalies.  
-- Presented findings at AGU, AMS, and NOAA, recognized for applied climate solutions.
+- Presented findings at AGU and AMS conferences.
 
 ---
 
 # 🎙️ Conference Presentations
 
 - **Shuo Xu**, Yuling Liu. *All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025.  
-- **Shuo Xu**, Yuling Liu, Yuyu Yu, Peng Yu. *All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
-- **Shuo Xu**, Yuling Liu, Yuyu Yu, Peng Yu. *All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. *All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. *All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023.  
 - **Shuo Xu**, Dongdong Wang. *Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias.* American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022.  
-- Yuling Liu, Yuyu Yu, Peng Yu, **Shuo Xu**, Hongbo Wang. *Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
+- Yuling Liu, Yunyue Yu, Peng Yu, **Shuo Xu**, Heshun Wang. *Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
 
 ---
 
