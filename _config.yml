@@ -25,39 +25,11 @@ author:
   avatar           : "2.jpg"
   bio              : "University of Maryland"
   location         : "Maryland, USA"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en"
-  email            : "shuoxu98@terpmail.umd.edu"
   linkedin         : "shuoxuphd"
+  googlescholar    : "https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Shuo-Xu-2?ev=hdr_xprf"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "shuoxu2018"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8760-818X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
