@@ -7,7 +7,9 @@
 
 # Site Settings
 title                    : "Shuo Xu"
-description              : "PhD Candidate at University of Maryland, Remote Sensing & Machine Learning. Reviewer for 13 international journals and Scientific/Program Committee Member."
+description: >
+  PhD Candidate at University of Maryland, Remote Sensing & Machine Learning.
+  Reviewer for 13 international journals and Scientific/Program Committee Member.
 repository               : "shuoxu2018/shuoxu2018.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +23,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuo Xu"
-  avatar           : "2.jpg"
-  bio              : "University of Maryland"
-  location         : "Maryland, USA"
-  linkedin         : "https://www.linkedin.com/in/shuoxuphd/"
-  googlescholar    : "https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Shuo-Xu-2"
-  github           : "https://github.com/shuoxu2018"
-  orcid            : "https://orcid.org/0000-0001-8760-818X"
+  name: "Shuo Xu"
+  avatar: "2.jpg"
+  bio: "University of Maryland"
+  location: "Maryland, USA"
+  linkedin: "https://www.linkedin.com/in/shuoxuphd/"
+  googlescholar: "https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en"
+  researchgate: "https://www.researchgate.net/profile/Shuo-Xu-2"
+  github: "https://github.com/shuoxu2018"
+  orcid: "https://orcid.org/0000-0001-8760-818X"
+
 
 
 # Reading Files
