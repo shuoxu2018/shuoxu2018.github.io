@@ -22,7 +22,7 @@ redirect_from:
 Hi, I am a Ph.D. candidate, advised by Dr. Yiqun Xie, in the Department of Geographical Sciences at the University of Maryland, College Park. 
 My primary research interests focus on **remote sensing and knowledge-guided machine learning**, with expertise in land surface variable retrieval, data downscaling and multi-source data fusion, all-weather product development, knowledge-guided machine learning, and tackling related scientific challenges.   
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
-<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>, and serve as a **reviewer for 13 international journals**, including Remote Sensing of Environment (RSE) (IF = 11.4).
+<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>, and serve as a **reviewer for 14 international journals**, including Remote Sensing of Environment (RSE) (IF = 11.4).
 
 ---
 
@@ -304,7 +304,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 - **IGARSS 2025 Scientific Committee**
 - **GeoIndustry Workshop at ACM SIGSPATIAL 2025 Program Reviewer**
-- **Reviewer for 13 International Journals**, including:  
+- **Reviewer for 14 International Journals**, including:  
   - Remote Sensing of Environment  
   - Earth System Science Data  
   - IEEE Transactions on Geoscience and Remote Sensing  
