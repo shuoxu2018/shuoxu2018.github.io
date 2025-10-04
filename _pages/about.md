@@ -219,8 +219,7 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 
 Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:0EnyYjriUFMC)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:0EnyYjriUFMC'></span></strong>
+
 
 </div>
 </div>
@@ -232,8 +231,6 @@ Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li,
 
 Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:YsMSGLbcyi4C)
-<strong><span class='show_paper_citations' data='f0840jkAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 </div>
 </div>
