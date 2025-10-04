@@ -64,8 +64,8 @@ I have authored over 11 papers in top journals and international AI conferences 
 
   **Shuo Xu**, Jie Cheng.
 
-  [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f0840jkAAAAJ&citation_for_view=f0840jkAAAAJ:d1gkVwhDpl0C)
-  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
+  **Citations:** <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
+
 
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
   - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times for climate studies.
