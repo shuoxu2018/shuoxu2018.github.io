@@ -89,6 +89,8 @@ I have **authored over 11 papers** in top journals and international AI conferen
   [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
 
   **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
+  
+  - Publicly released the algorithm on Google Earth Engine to support broader applications.
 
 </div>
 </div>
