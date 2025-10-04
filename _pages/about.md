@@ -35,8 +35,6 @@ I have authored over 11 papers in top journals and international AI conferences 
 - *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (IF = 8.0)**!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (IF = 16.4)**!
 - *2024.03*: &nbsp;🎉🎉 Paper published by **AAAI 2024**!
-
-- 
 ---
 
 # 🔬 Research Interests
