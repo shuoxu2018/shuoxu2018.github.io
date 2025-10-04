@@ -29,7 +29,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en"
   email            : "shuoxu98@terpmail.umd.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/Shuo-Xu-2?ev=hdr_xprf"
+  linkedin         : "https://www.linkedin.com/in/shuoxuphd/"
+  researchgate     : "https://www.researchgate.net/profile/Shuo-Xu-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +38,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/shuoxu2018"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "https://www.linkedin.com/in/shuoxuphd/"
+
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8760-818X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
