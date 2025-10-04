@@ -6,9 +6,9 @@ on:
   schedule:
     - cron:  '0 8 * * *'
 
-concurrency:
-  group: scholar-${{ github.ref }}
-  cancel-in-progress: true
+# concurrency:
+#   group: scholar-${{ github.ref }}
+#   cancel-in-progress: true
   
 jobs:
   build:
