@@ -30,8 +30,13 @@ I have authored over 11 papers in top journals and international AI conferences 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2025! 
+- *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
+- *2024.10*: &nbsp;🎉🎉 Paper published in IEEE MGRS (IF = 16.4)!
+- *2024.10*: &nbsp;🎉🎉 Paper published in STOTEN (IF = 8.0)!
+- *2024.10*: &nbsp;🎉🎉 RSE Paper ranked among the top **1%** most-cited Environment/Ecology articles published in 2021, and the generated dataset accessed **46,000+** times worldwide.
+- *2024.03*: &nbsp;🎉🎉 Paper published by **AAAI 2024**!
 
+- 
 ---
 
 # 🔬 Research Interests
