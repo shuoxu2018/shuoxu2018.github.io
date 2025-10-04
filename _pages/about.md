@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 
 I am a Ph.D. candidate in the Department of Geographical Sciences at the University of Maryland, USA. 
-My primary research interests focus on **remote sensing** and **machine learning**, with expertise in land surface variable retrieval, data downscaling and multi-source data fusion, all-weather product development, knowledge-guided machine learning, and tackling related scientific challenges.   
+My primary research interests focus on **remote sensing and knowledge-guided machine learning**, with expertise in land surface variable retrieval, data downscaling and multi-source data fusion, all-weather product development, knowledge-guided machine learning, and tackling related scientific challenges.   
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
 <a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>, and serve as a **reviewer for 13 international journals**.
 
