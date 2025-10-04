@@ -71,9 +71,6 @@ I have **authored over 11 papers** in top journals and international AI conferen
 
   **Shuo Xu**, Jie Cheng.
 
-  <strong><span class='show_paper_citations' data='f0840jkAAAAJ:d1gkVwhDpl0C'></span></strong>
-
-
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
   - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times worldwide.
 </div>
