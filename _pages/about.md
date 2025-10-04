@@ -270,7 +270,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
-<span class='anchor' id='work-experience'></span>
+<span class='anchor' id='work experience'></span>
 # 💼 Work Experience
 
 
@@ -288,7 +288,6 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 ---
 
-<span class='anchor' id='conference'></span>
 # 🎙️ Conference Presentations
 
 - **Shuo Xu**, Yuling Liu. *All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025.  
