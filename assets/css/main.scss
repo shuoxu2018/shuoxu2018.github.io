@@ -106,16 +106,26 @@ h1:before, .anchor:before {
     margin-left: -.5em;
     color: white;
     font-size: .8em;
-    border-radius: 4px;   /* 圆角 */
+    border-radius: 4px;  
 }
 
-/* Journal Papers → 蓝色 */
+/* Journal Papers 
 .badge-journal {
-    background-color: #1E90FF; /* 这个是你给的蓝色 */
+    background-color: #1E90FF; 
 }
 
-/* Conference Papers → 绿色 */
+/* Conference Papers 
 .badge-conference {
-    background-color: #2E8B57; /* 这个是你给的绿色 */
+    background-color: #2E8B57; 
+}
+
+.author__bio, .site-description {
+  white-space: normal !important;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+.author__content {
+  max-height: none !important;
 }
 
