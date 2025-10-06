@@ -109,16 +109,6 @@ h1:before, .anchor:before {
     border-radius: 4px;  
 }
 
-/* Journal Papers 
-.badge-journal {
-    background-color: #1E90FF; 
-}
-
-/* Conference Papers 
-.badge-conference {
-    background-color: #2E8B57; 
-}
-
 .author__bio, .site-description {
   white-space: normal !important;
   word-break: break-word;
@@ -132,3 +122,15 @@ h1:before, .anchor:before {
 .sidebar, .author__avatar, .author__content {
   height: auto !important;
 }
+
+/* Journal Papers 
+.badge-journal {
+    background-color: #1E90FF; 
+}
+
+/* Conference Papers 
+.badge-conference {
+    background-color: #2E8B57; 
+}
+
+
