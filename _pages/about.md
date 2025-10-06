@@ -216,7 +216,7 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Carbon-Bench: A Forty-year Global-scale Benchmark Dataset for Carbon Forecasting in Forest Ecosystems](https://arxiv.org/abs/2401.15270)  
+Carbon-Bench: A Forty-year Global-scale Benchmark Dataset for Carbon Forecasting in Forest Ecosystems  
 
 Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
 
