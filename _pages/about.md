@@ -20,26 +20,26 @@ redirect_from:
 # 👋 About Me
 
 Hi, I am a **Ph.D. candidate**, advised by Dr. Yiqun Xie, in the Department of Geographical Sciences at the **University of Maryland**, College Park. 
-My primary research interests focus on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and tackling related scientific challenges.   
+My primary research focus on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
-<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>, and serve as a **reviewer for 14 international journals**, including Remote Sensing of Environment (RSE) (IF = 11.4).
+<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>. I also serve as a **reviewer for 14 international journals**, including *Remote Sensing of Environment (RSE)* (IF = 11.4).
 
 ---
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
-- *2025.01*: &nbsp;🎉🎉 RSE paper ranked top **1% most-cited** (Environment/Ecology 2021), dataset accessed **46,000+** times worldwide.
+- *2025.01*: &nbsp;🎉🎉 RSE paper ranked among the **top 1% most cited** (Environment/Ecology 2021) and the dataset has been accessed **46,000+** times worldwide.
 - *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (IF = 8.0)**!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (IF = 16.4)**!
-- *2024.03*: &nbsp;🎉🎉 Paper published by **AAAI 2024**!
+- *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024**!
 
 ---
 
 # 🔬 Research Interests
 - Remote Sensing and Multi-Source Data Fusion  
 - Knowledge-guided Machine Learning and Quantitative Analysis  
-- Time Series Prediction and Analysis  
+- Time Series Modeling and Forecasting  
 
 ---
 
@@ -47,7 +47,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 - **Programming & Analysis:** Python, MATLAB, IDL; High Performance Computing for Large-Scale Datasets  
 - **Geospatial Tools:** Google Earth Engine, ArcPro, ENVI, ERDAS  
 - **Machine Learning & Frameworks:** PyTorch, TensorFlow; Data-Driven and Knowledge-Guided Machine Learning  
-- **Specialties:** Temporal Prediction, Spatial and Temporal Data Analysis, and Ecosystem Modeling  
+- **Specialties:** Temporal Prediction, Spatiotemporal Data Analysis, and Ecosystem Modeling  
 
 ---
 
