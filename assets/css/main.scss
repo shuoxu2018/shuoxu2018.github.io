@@ -52,8 +52,8 @@
     .paper-box-image {
         justify-content: flex-start;    // ⭐修改: 原来 center 改成 flex-start
         display: flex;
-        width: 20%;                     // ⭐修改: 原来100%，改成20%
-        flex: 0 0 20%;                  // ⭐新增: 固定左栏20%
+        width: 15%;                     // ⭐修改: 原来100%，改成20%
+        flex: 0 0 15%;                  // ⭐新增: 固定左栏20%
         order: 1;                       // ⭐修改: 原来是2，改成1
         img {
             max-width: 400px;
@@ -65,8 +65,8 @@
     .paper-box-text {
         justify-content: flex-start;    // ⭐修改: 原来 left 改成 flex-start
         padding-left: 2em;              // ⭐新增: 右侧文字与左栏间距
-        max-width: 80%;                 // ⭐修改: 原来100%，改成80%
-        flex: 0 0 80%;                  // ⭐新增: 固定右栏80%
+        max-width: 85%;                 // ⭐修改: 原来100%，改成80%
+        flex: 0 0 85%;                  // ⭐新增: 固定右栏80%
         order: 2;                       // ⭐修改: 原来是1，改成2
     }
 
