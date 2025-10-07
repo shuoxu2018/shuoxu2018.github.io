@@ -293,11 +293,11 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 
 # 🎙️ Conference Presentations
 
-- **Shuo Xu**, Yuling Liu. All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025*.  
-- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
-- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023*.  
-- **Shuo Xu**, Dongdong Wang. Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias.* American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022*.  
-- Yuling Liu, Yunyue Yu, Peng Yu, **Shuo Xu**, Heshun Wang. Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
+- **Shuo Xu**, Yuling Liu. All-weather VIIRS LST: Machine Learning Based Methodology and Experiment. *105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025*.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment on JPSS/VIIRS LST. *American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment. *National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023*.  
+- **Shuo Xu**, Dongdong Wang. Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias. *American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022*.  
+- Yuling Liu, Yunyue Yu, Peng Yu, **Shuo Xu**, Heshun Wang. Validation and Performance Evaluation of NOAA-21 VIIRS LST Product. *American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
 
 ---
 
