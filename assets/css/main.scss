@@ -72,6 +72,7 @@
             justify-content: left;
             min-width: 200px;
             max-width: 20%;
+            flex: 0 0 20%;
             order: 1;
         }
         
@@ -101,9 +102,9 @@ h1:before, .anchor:before {
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
-    position: absolute;
+    display: inline-block;
+    position: relative; 
     margin-top: .5em;
-    margin-left: -.5em;
     color: white;
     font-size: .8em;
     border-radius: 4px;  
