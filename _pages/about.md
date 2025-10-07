@@ -30,8 +30,8 @@ I have **authored over 11 papers** in top journals and international AI conferen
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
 - *2025.01*: &nbsp;🎉🎉 RSE paper ranked among the **top 1% most cited** (Environment/Ecology 2021) and the dataset has been accessed **46,000+** times worldwide.
-- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (Impact Factor = 8.0)**!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (Impact Factor = 16.4)**!
+- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (Impact Factor = 8.0)**!
 - *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024**!
 
 ---
@@ -267,9 +267,9 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 
-- *2021.09 – Present* Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
-- *2018.09 – 2021.06* M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
-- *2014.09 – 2018.06* B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
+- *2021.09 – Present*   Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
+- *2018.09 – 2021.06*   M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
+- *2014.09 – 2018.06*   B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
 
 ---
 
@@ -293,11 +293,11 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 
 # 🎙️ Conference Presentations
 
-- **Shuo Xu**, Yuling Liu. *All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025.  
-- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. *All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
-- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. *All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023.  
-- **Shuo Xu**, Dongdong Wang. *Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias.* American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022.  
-- Yuling Liu, Yunyue Yu, Peng Yu, **Shuo Xu**, Heshun Wang. *Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024.  
+- **Shuo Xu**, Yuling Liu. All-weather VIIRS LST: Machine Learning Based Methodology and Experiment.* 105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025*.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment on JPSS/VIIRS LST.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
+- **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment.* National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023*.  
+- **Shuo Xu**, Dongdong Wang. Validation of gridded datasets of near-surface temperature variables: uncertainties, spatial heterogeneity and clear-sky bias.* American Geophysical Union (AGU) Fall Meeting, Chicago, IL, Dec 2022*.  
+- Yuling Liu, Yunyue Yu, Peng Yu, **Shuo Xu**, Heshun Wang. Validation and Performance Evaluation of NOAA-21 VIIRS LST Product.* American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
 
 ---
 
