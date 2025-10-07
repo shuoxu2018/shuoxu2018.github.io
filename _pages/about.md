@@ -22,7 +22,7 @@ redirect_from:
 Hi, I am a **Ph.D. candidate**, advised by Dr. Yiqun Xie, in the Department of Geographical Sciences at the **University of Maryland**, College Park. 
 My primary research focus on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
-<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>. I also serve as a **reviewer for 14 international journals**, including *Remote Sensing of Environment (RSE)* (IF = 11.4).
+<a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong><span id='total_cit'></span></strong></a>. I also serve as a **reviewer for 14 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor = 11.4).
 
 ---
 
@@ -30,8 +30,8 @@ I have **authored over 11 papers** in top journals and international AI conferen
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
 - *2025.01*: &nbsp;🎉🎉 RSE paper ranked among the **top 1% most cited** (Environment/Ecology 2021) and the dataset has been accessed **46,000+** times worldwide.
-- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (IF = 8.0)**!
-- *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (IF = 16.4)**!
+- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (Impact Factor = 8.0)**!
+- *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (Impact Factor = 16.4)**!
 - *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024**!
 
 ---
@@ -54,10 +54,37 @@ I have **authored over 11 papers** in top journals and international AI conferen
 <span class='anchor' id='publications'></span>
 # 📝 Peer-review Publications
 
+<span style="background-color:#2E8B57;color:white;padding:2px 6px;border-radius:4px;">AI Conference Paper</span> 
 <span style="background-color:#1E90FF;color:white;padding:2px 6px;border-radius:4px;">Journal Paper</span>
-<span style="background-color:#2E8B57;color:white;padding:2px 6px;border-radius:4px;">Conference Paper</span> &nbsp;&nbsp;
+&nbsp;&nbsp;
 
+<div class='paper-box'>
+  <div class="badge badge-conference">NeurIPS 2025</div>
+  <div class='paper-box-text' markdown="1">
 
+Carbon-Bench: A forty-year global-scale benchmark dataset for carbon forecasting in forest ecosystems  
+
+Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
+NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-conference">AAAI 2024</div>
+      <img src='images/SimFair.png' alt="SimFair" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[SimFair: Physics-guided fairness-aware learning with simulation models](https://arxiv.org/abs/2401.15270)  
+
+Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
+The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024.
+</div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -71,6 +98,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
   [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
 
   **Shuo Xu**, Jie Cheng.
+  Remote Sensing of Environment, 2021, Impact Factor = 11.4.
 
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
   - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times worldwide.
@@ -89,7 +117,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
   [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
 
   **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
-  
+  Science of The Total Environment, 2024, Impact Factor = 8.0.
   - Publicly released the algorithm on Google Earth Engine to support broader applications.
 
 </div>
@@ -107,7 +135,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://www.sciencedirect.com/science/article/pii/S1569843223001693)  
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
-
+International Journal of Applied Earth Observation and Geoinformation, 2023, Impact Factor = 8.6.
 </div>
 </div>
 
@@ -123,7 +151,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 [Assessing the reliability of the MODIS LST product to detect temporal variability](https://ieeexplore.ieee.org/abstract/document/10242120)  
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
-
+IEEE Geoscience and Remote Sensing Letters, 2023, Impact Factor = 4.4.
 </div>
 </div>
 
@@ -139,7 +167,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://www.mdpi.com/2072-4292/13/11/2211)  
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
-
+Remote Sensing, 2021, Impact Factor = 4.1.
 </div>
 </div>
 
@@ -155,7 +183,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://ieeexplore.ieee.org/document/8745679)  
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
-
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, Impact Factor = 5.3.
 </div>
 </div>
 
@@ -168,10 +196,10 @@ I have **authored over 11 papers** in top journals and international AI conferen
   </div>
   <div class='paper-box-text' markdown="1">
 
-[Advances in Methodology and Generation of All-Weather Land Surface Temperature Products From Polar-Orbiting and Geostationary Satellites: A comprehensive review](https://ieeexplore.ieee.org/document/10679195)  
+[Advances in methodology and generation of all-weather land surface temperature products from polar-orbiting and geostationary satellites: A comprehensive review](https://ieeexplore.ieee.org/document/10679195)  
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu, **Shuo Xu**.
-
+IEEE Geoscience and Remote Sensing Magazine, 2024, Impact Factor = 16.4. 
 </div>
 </div>
 
@@ -187,7 +215,7 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu,
 [Global hourly, 5 km, all-sky land surface temperature data from 2011 to 2021 based on integrating geostationary and polar-orbiting satellite data](https://essd.copernicus.org/articles/15/869/2023/)  
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
-
+Earth System Science Data, 2023, Impact Factor = 11.6.
 </div>
 </div>
 
@@ -203,39 +231,7 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
 [A stepwise downscaling method for generating high-resolution land surface temperature from AMSR-E data](https://ieeexplore.ieee.org/document/9190035)  
 
 Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge badge-conference">NeurIPS 2025</div>
-      <img src='images/Carbon.png' alt="Carbon Bench" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-Carbon-Bench: A Forty-year Global-scale Benchmark Dataset for Carbon Forecasting in Forest Ecosystems  
-
-Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge badge-conference">AAAI 2024</div>
-      <img src='images/SimFair.png' alt="SimFair" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[SimFair: Physics-Guided Fairness-Aware Learning with Simulation Models](https://arxiv.org/abs/2401.15270)  
-
-Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
-
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, Impact Factor = 5.3.
 </div>
 </div>
 
