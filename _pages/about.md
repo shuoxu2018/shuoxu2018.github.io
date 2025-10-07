@@ -79,7 +79,7 @@ NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025.
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-conference">AAAI 2024</div>
-      <img src='images/SimFair.png' alt="SimFair" width="100%">
+      <!-- <img src='images/SimFair.png' alt="SimFair" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -95,7 +95,7 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">RSE 2021</div>
-      <img src='images/cdf.jpg' alt="CDF MKF" width="100%">
+      <!-- <img src='images/cdf.jpg' alt="CDF MKF" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -114,7 +114,7 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">STOTEN 2024</div>
-      <img src='images/trans.jpg' alt="sym" width="100%">
+      <!-- <img src='images/trans.jpg' alt="sym" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -132,7 +132,7 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">Int. J. Appl. Earth Obs. Geoinf 2023</div>
-      <img src='images/vali.png' alt="CDF MKF" width="100%">
+      <!-- <img src='images/vali.png' alt="CDF MKF" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -148,7 +148,7 @@ International Journal of Applied Earth Observation and Geoinformation, 2023, Imp
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">IEEE GRSL 2023</div>
-      <img src='images/trend.png' alt="sym" width="100%">
+      <!-- <img src='images/trend.png' alt="sym" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -164,7 +164,7 @@ IEEE Geoscience and Remote Sensing Letters, 2023, Impact Factor = 4.4.
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">RS 2021</div>
-      <img src='images/rf.png' alt="LST Review" width="100%">
+      <!-- <img src='images/rf.png' alt="LST Review" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -180,7 +180,7 @@ Remote Sensing, 2021, Impact Factor = 4.1.
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">IEEE JSTARS 2019</div>
-      <img src='images/bme.png' alt="LST Review" width="100%">
+      <!-- <img src='images/bme.png' alt="LST Review" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -196,7 +196,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">IEEE GRSM 2024</div>
-      <img src='images/review.png' alt="LST Review" width="100%">
+      <!-- <img src='images/review.png' alt="LST Review" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -212,7 +212,7 @@ IEEE Geoscience and Remote Sensing Magazine, 2024, Impact Factor = 16.4.
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">ESSD 2023</div>
-      <img src='images/essd.png' alt="LST Review" width="100%">
+      <!-- <img src='images/essd.png' alt="LST Review" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -228,7 +228,7 @@ Earth System Science Data, 2023, Impact Factor = 11.6.
   <div class='paper-box-image'>
     <div>
       <div class="badge badge-journal">IEEE JSTARS 2020</div>
-      <img src='images/downscaling.png' alt="LST Review" width="100%">
+      <!-- <img src='images/downscaling.png' alt="LST Review" width="100%"> -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -239,6 +239,7 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, Impact Factor = 5.3.
 </div>
 </div>
+
 
 <div style="clear: both;"></div>
 
