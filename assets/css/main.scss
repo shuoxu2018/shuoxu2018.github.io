@@ -42,50 +42,35 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
+    justify-content: flex-start;        // ⭐修改: 原来 left 改成 flex-start
+    align-items: flex-start;            // ⭐修改: 原来 center 改成 flex-start
     flex-direction: row;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;                  // ⭐修改: 原来 wrap 改成 nowrap，始终左右排版
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 2em 0;                     // ⭐修改: 简化上下 padding
 
-    .paper-box-image{
-        justify-content: center;
+    .paper-box-image {
+        justify-content: flex-start;    // ⭐修改: 原来 center 改成 flex-start
         display: flex;
-        width: 100%;
-        order: 2;
+        width: 20%;                     // ⭐修改: 原来100%，改成20%
+        flex: 0 0 20%;                  // ⭐新增: 固定左栏20%
+        order: 1;                       // ⭐修改: 原来是2，改成1
         img {
             max-width: 400px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
     }
-    
-    .paper-box-text{
-        max-width: 100%;
-        order: 1;
-    }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 20%;
-            flex: 0 0 20%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 80%;
-            order: 2;
-        }
 
+    .paper-box-text {
+        justify-content: flex-start;    // ⭐修改: 原来 left 改成 flex-start
+        padding-left: 2em;              // ⭐新增: 右侧文字与左栏间距
+        max-width: 80%;                 // ⭐修改: 原来100%，改成80%
+        flex: 0 0 80%;                  // ⭐新增: 固定右栏80%
+        order: 2;                       // ⭐修改: 原来是1，改成2
     }
 
-
+    // ⭐删除了原来的 @include breakpoint($medium) { ... }，因为现在所有屏幕都用这套左右布局
 }
 
 $scroll_offset : 2em;
