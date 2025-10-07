@@ -59,7 +59,12 @@ I have **authored over 11 papers** in top journals and international AI conferen
 &nbsp;&nbsp;
 
 <div class='paper-box'>
-  <div class="badge badge-conference">NeurIPS 2025</div>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-conference">NeurIPS 2025</div>
+      <!-- <img src='images/Carbon.png' alt="Carbon Bench" width="100%"> -->
+    </div>
+  </div>
   <div class='paper-box-text' markdown="1">
 
 Carbon-Bench: A forty-year global-scale benchmark dataset for carbon forecasting in forest ecosystems  
