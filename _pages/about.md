@@ -70,6 +70,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 Carbon-Bench: A forty-year global-scale benchmark dataset for carbon forecasting in forest ecosystems  
 
 Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
+
 NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025.
 
 </div>
