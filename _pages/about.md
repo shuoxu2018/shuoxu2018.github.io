@@ -70,8 +70,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 Carbon-Bench: A forty-year global-scale benchmark dataset for carbon forecasting in forest ecosystems  
 
 Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
-
-NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025.
+<br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025</em>.
 
 </div>
 </div>
@@ -88,7 +87,7 @@ NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025.
 [SimFair: Physics-guided fairness-aware learning with simulation models](https://arxiv.org/abs/2401.15270)  
 
 Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
-The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024.
+<br><em>The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024</em>.
 </div>
 </div>
 
@@ -101,10 +100,10 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
+[A new land surface temperature fusion strategy based on cumulative distribution function matching and multiresolution Kalman filtering](https://doi.org/10.1016/j.rse.2020.112256)  
 
   **Shuo Xu**, Jie Cheng.
-  Remote Sensing of Environment, 2021, Impact Factor = 11.4.
+  <br><em>Remote Sensing of Environment, 2021, Impact Factor = 11.4</em>.
 
   - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
   - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times worldwide.
@@ -123,7 +122,7 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
   [A novel approach to estimate land surface temperature from Landsat top-of-atmosphere reflective and emissive data using transfer-learning neural network](https://doi.org/10.1016/j.scitotenv.2024.176783)  
 
   **Shuo Xu**, Dongdong Wang, Shunlin Liang, Aolin Jia, Ruohan Li, Zhihao Wang, Yuling Liu.
-  Science of The Total Environment, 2024, Impact Factor = 8.0.
+  <br><em>Science of The Total Environment, 2024, Impact Factor = 8.0</em>.
   - Publicly released the algorithm on Google Earth Engine to support broader applications.
 
 </div>
@@ -141,7 +140,7 @@ The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada
 [Assessment of gridded datasets of various near surface temperature variables over Heihe River Basin: Uncertainties, spatial heterogeneity and clear-sky bias](https://www.sciencedirect.com/science/article/pii/S1569843223001693)  
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
-International Journal of Applied Earth Observation and Geoinformation, 2023, Impact Factor = 8.6.
+<br><em>International Journal of Applied Earth Observation and Geoinformation, 2023, Impact Factor = 8.6</em>.
 </div>
 </div>
 
@@ -157,7 +156,7 @@ International Journal of Applied Earth Observation and Geoinformation, 2023, Imp
 [Assessing the reliability of the MODIS LST product to detect temporal variability](https://ieeexplore.ieee.org/abstract/document/10242120)  
 
 **Shuo Xu**, Dongdong Wang, Shunlin Liang, Yuling Liu, Aolin Jia.
-IEEE Geoscience and Remote Sensing Letters, 2023, Impact Factor = 4.4.
+<br><em>IEEE Geoscience and Remote Sensing Letters, 2023, Impact Factor = 4.4</em>.
 </div>
 </div>
 
@@ -173,7 +172,7 @@ IEEE Geoscience and Remote Sensing Letters, 2023, Impact Factor = 4.4.
 [A random forest-based data fusion method for obtaining all-weather land surface temperature with high spatial resolution](https://www.mdpi.com/2072-4292/13/11/2211)  
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
-Remote Sensing, 2021, Impact Factor = 4.1.
+<br><em>Remote Sensing, 2021, Impact Factor = 4.1</em>.
 </div>
 </div>
 
@@ -189,7 +188,7 @@ Remote Sensing, 2021, Impact Factor = 4.1.
 [Reconstructing all-weather land surface temperature using the Bayesian maximum entropy method over the Tibetan Plateau and Heihe River Basin](https://ieeexplore.ieee.org/document/8745679)  
 
 **Shuo Xu**, Jie Cheng, Qiang Zhang.
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, Impact Factor = 5.3.
+<br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2019, Impact Factor = 5.3</em>.
 </div>
 </div>
 
@@ -205,7 +204,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 [Advances in methodology and generation of all-weather land surface temperature products from polar-orbiting and geostationary satellites: A comprehensive review](https://ieeexplore.ieee.org/document/10679195)  
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Kanishka Mallick, Shugui Zhou, Tian Hu, **Shuo Xu**.
-IEEE Geoscience and Remote Sensing Magazine, 2024, Impact Factor = 16.4. 
+<br><em>IEEE Geoscience and Remote Sensing Magazine, 2024, Impact Factor = 16.4</em>. 
 </div>
 </div>
 
@@ -221,7 +220,7 @@ IEEE Geoscience and Remote Sensing Magazine, 2024, Impact Factor = 16.4.
 [Global hourly, 5 km, all-sky land surface temperature data from 2011 to 2021 based on integrating geostationary and polar-orbiting satellite data](https://essd.copernicus.org/articles/15/869/2023/)  
 
 Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
-Earth System Science Data, 2023, Impact Factor = 11.6.
+<br><em>Earth System Science Data, 2023, Impact Factor = 11.6</em>.
 </div>
 </div>
 
@@ -237,7 +236,7 @@ Earth System Science Data, 2023, Impact Factor = 11.6.
 [A stepwise downscaling method for generating high-resolution land surface temperature from AMSR-E data](https://ieeexplore.ieee.org/document/9190035)  
 
 Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, Impact Factor = 5.3.
+<br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, Impact Factor = 5.3</em>.
 </div>
 </div>
 
