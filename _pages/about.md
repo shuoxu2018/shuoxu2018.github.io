@@ -267,17 +267,17 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 
-- *2021.09 – Present*   Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
-- *2018.09 – 2021.06*   M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
-- *2014.09 – 2018.06*   B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
+- *2021.09 - Present*   Ph.D. candidate, Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
+- *2018.09 - 2021.06*   M.S., Cartography and Geography Information System, **Beijing Normal University**, Beijing, China
+- *2014.09 - 2018.06*   B.S., Remote Sensing Science and Technology, **Shandong University of Science and Technology**, Qingdao, China
 
 ---
 
 <span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
 
-### Research Assistant — University of Maryland  
-*Sep 2021 – Present*  
+### Research Assistant - University of Maryland  
+*Sep 2021 - Present*  
 **NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
 - Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
 - Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
