@@ -29,7 +29,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
-- *2025.01*: &nbsp;🎉🎉 RSE paper in **top 1% most cited** (Env/Ecol 2021); dataset **46,000+** accesses worldwide!
+- *2025.01*: &nbsp;🎉🎉 RSE paper among **top 1% most cited** (Env/Ecol 2021); dataset **46,000+** accesses worldwide!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (Impact Factor = 16.4)**!
 - *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (Impact Factor = 8.0)**!
 - *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024**!
