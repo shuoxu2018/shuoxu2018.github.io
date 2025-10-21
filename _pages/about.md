@@ -105,8 +105,8 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
   **Shuo Xu**, Jie Cheng.
   <br><em>Remote Sensing of Environment, 2021, Impact Factor = 11.4</em>.
 
-  - Ranked among the top 1% most-cited Environment/Ecology articles published in 2021.
-  - Method adopted to generate a widely used temperature dataset, accessed 46,000+ times worldwide.
+  - Ranked among the **top 1%** most-cited Environment/Ecology articles published in 2021.
+  - Method adopted to generate a widely used temperature dataset, accessed **46,000+** times worldwide.
 </div>
 </div>
 
