@@ -70,7 +70,7 @@ I have **authored over 11 papers** in top journals and international AI conferen
 [CarbonGlobe: A Global-Scale, Multi-Decade Dataset and Benchmark for Carbon Forecasting in Forest Ecosystems](https://openreview.net/pdf?id=M07aAJKH8B) 
 
 
-Zhihao Wang, Yiqun Xie, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**.
+Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**, Yiqun Xie.
 <br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025</em>.
 
 </div>
