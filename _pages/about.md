@@ -54,8 +54,8 @@ I have **authored over 11 papers** in top journals and international AI conferen
 <span class='anchor' id='publications'></span>
 # 📝 Peer-review Publications
 
-<span style="background-color:#2E8B57;color:white;padding:2px 6px;border-radius:4px;">AI Conference Paper</span> 
 <span style="background-color:#1E90FF;color:white;padding:2px 6px;border-radius:4px;">Journal Paper</span>
+<span style="background-color:#2E8B57;color:white;padding:2px 6px;border-radius:4px;">AI Conference Paper</span> 
 &nbsp;&nbsp;
 
 <div class='paper-box'>
