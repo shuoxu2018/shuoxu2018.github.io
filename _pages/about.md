@@ -61,40 +61,6 @@ I have **authored over 11 papers** in top journals and international AI conferen
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge badge-conference">NeurIPS 2025</div>
-      <!-- <img src='images/Carbon.png' alt="Carbon Bench" width="100%"> -->
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[CarbonGlobe: A Global-Scale, Multi-Decade Dataset and Benchmark for Carbon Forecasting in Forest Ecosystems](https://openreview.net/pdf?id=M07aAJKH8B) 
-
-
-Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**, Yiqun Xie.
-<br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025</em>.
-
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge badge-conference">AAAI 2024</div>
-      <!-- <img src='images/SimFair.png' alt="SimFair" width="100%"> -->
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-[SimFair: Physics-guided fairness-aware learning with simulation models](https://arxiv.org/abs/2401.15270)  
-
-Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
-<br><em>The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024</em>.
-</div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
       <div class="badge badge-journal">RSE 2021</div>
       <!-- <img src='images/cdf.jpg' alt="CDF MKF" width="100%"> -->
     </div>
@@ -238,6 +204,40 @@ Aolin Jia, Shunlin Liang, Dongdong Wang, Lei Ma, Zhihao Wang, **Shuo Xu**.
 
 Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
 <br><em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020, Impact Factor = 5.3</em>.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-conference">NeurIPS 2025</div>
+      <!-- <img src='images/Carbon.png' alt="Carbon Bench" width="100%"> -->
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[CarbonGlobe: A Global-Scale, Multi-Decade Dataset and Benchmark for Carbon Forecasting in Forest Ecosystems](https://openreview.net/pdf?id=M07aAJKH8B) 
+
+
+Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**, Yiqun Xie.
+<br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025</em>.
+
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge badge-conference">AAAI 2024</div>
+      <!-- <img src='images/SimFair.png' alt="SimFair" width="100%"> -->
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[SimFair: Physics-guided fairness-aware learning with simulation models](https://arxiv.org/abs/2401.15270)  
+
+Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
+<br><em>The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024</em>.
 </div>
 </div>
 
