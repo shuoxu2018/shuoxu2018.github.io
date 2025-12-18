@@ -38,13 +38,13 @@ I have **authored over 11 papers** in top journals and international AI conferen
 
 # 🔬 Research Interests
 - Remote Sensing and Multi-Source Data Fusion  
-- Knowledge-guided Machine Learning and Quantitative Analysis  
-- Time Series Modeling and Forecasting  
+- Knowledge-guided Machine Learning for Process-based Ecosystem Modeling
+- Time Series Forecasting and Analysis
 
 ---
 
 # 🛠 Technical Skills
-- **Programming & Analysis:** Python, MATLAB, IDL; High Performance Computing for Large-Scale Datasets  
+- **Programming & Analysis:** Python, MATLAB, Fortran, IDL; High Performance Computing for Large-Scale Datasets  
 - **Geospatial Tools:** Google Earth Engine, ArcPro, ENVI, ERDAS  
 - **Machine Learning & Frameworks:** PyTorch, TensorFlow; Data-Driven and Knowledge-Guided Machine Learning  
 - **Specialties:** Temporal Prediction, Spatiotemporal Data Analysis, and Ecosystem Modeling  
