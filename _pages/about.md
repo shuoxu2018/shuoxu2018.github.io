@@ -250,7 +250,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 <span class='anchor' id='awards'></span>
 # 🏅 Honors and Awards
 
-- *2025* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
+- *2026* &nbsp;🏆 Ann G. Wylie Dissertation Fellowship, University of Maryland
 - *2025* &nbsp;🏆 Excellence in Graduate Research Award (Second Place), University of Maryland
 - *2025* &nbsp;🏆 GIS Summer Research Fellowship, University of Maryland
 - *2024* &nbsp;🏆 Outstanding Graduate Research Assistant Award, University of Maryland
@@ -294,6 +294,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 # 🎙️ Conference Presentations
 
+- **Shuo Xu**, Yiqun Xie, Xiaowei Jia, Zhihao Wang, Lei Ma, George Hurtt, Ruichen Wang, Ruohan Li. Knowledge-guided machine learning to enhance ecosystem carbon estimation with in-situ observations. *American Geophysical Union (AGU) Fall meeting 2025. New Orleans, Dec 2025*.
 - **Shuo Xu**, Yuling Liu. All-weather VIIRS LST: Machine Learning Based Methodology and Experiment. *105th American Meteorological Society (AMS) Annual Meeting, New Orleans, Jan 2025*.  
 - **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment on JPSS/VIIRS LST. *American Geophysical Union (AGU) Fall Meeting, Washington DC, Dec 2024*.  
 - **Shuo Xu**, Yuling Liu, Yunyue Yu, Peng Yu. All-weather LST: Methodology and Experiment. *National Oceanic and Atmospheric Administration (NOAA) Cooperative Research Programs (CoRP) Science Symposium, Madison, WI, July 2023*.  
