@@ -22,7 +22,7 @@ redirect_from:
 Hi, I am a **Ph.D. candidate**, advised by Dr. Yiqun Xie, in the Department of Geographical Sciences at the **University of Maryland**, College Park. 
 My primary research focus on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
 I have **authored over 11 papers** in top journals and international AI conferences with a total of 
-<a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>430+</strong></a>. I also serve as a **reviewer for 14 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor = 11.4).
+<a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>430+</strong></a>. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor = 11.4).
 
 ---
 
@@ -308,21 +308,24 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 
 - **Scientific Committee**, IGARSS 2025
 - **Program Reviewer**, ACM SIGSPATIAL 2025 (GeoIndustry Workshop) 
-- **Reviewer for 14 International Journals**, including:  
+- **Reviewer for 15 International Journals**, including:  
   - Remote Sensing of Environment  
-  - Earth System Science Data  
-  - IEEE Transactions on Geoscience and Remote Sensing  
-  - Scientific Data  
-  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing  
+  - IEEE Transactions on Geoscience and Remote Sensing
+  - Earth System Science Data
+  - Science of Remote Sensing
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+  - Journal of Geophysical Research: Atmospheres
+  - Photogrammetric Engineering and Remote Sensing
+  - Earth Science Informatics
+  - Scientific Data
+<!--
   - GPS Solutions  
   - Scientific Reports  
-  - Journal of Geophysical Research: Atmospheres  
-  - Environmental Monitoring and Assessment  
-  - Earth Science Informatics  
-  - Photogrammetric Engineering and Remote Sensing  
-  - Discover Cities  
   - Environmental Earth Sciences  
-  - Theoretical and Applied Climatology    
+  - Environmental Monitoring and Assessment  
+  - Theoretical and Applied Climatology  
+  - Discover Cities
+-->
 
 ---
 
