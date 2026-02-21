@@ -319,12 +319,12 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
   - Earth Science Informatics
   - Scientific Data
 <!--
-  - GPS Solutions  
-  - Scientific Reports  
-  - Environmental Earth Sciences  
-  - Environmental Monitoring and Assessment  
-  - Theoretical and Applied Climatology  
-  - Discover Cities
+- GPS Solutions  
+- Scientific Reports  
+- Environmental Earth Sciences  
+- Environmental Monitoring and Assessment  
+- Theoretical and Applied Climatology  
+- Discover Cities
 -->
 
 ---
