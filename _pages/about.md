@@ -306,7 +306,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 <span class='anchor' id='service'></span>
 # 🤝 Peer Review & Scientific Committee Service
 
-- **Scientific Committee**, IGARSS 2025
+- **Scientific Committee**, IGARSS 2025 & IGARSS 2026
 - **Program Reviewer**, ACM SIGSPATIAL 2025 (GeoIndustry Workshop) 
 - **Reviewer for 15 International Journals**, including:  
   - Remote Sensing of Environment  
@@ -318,6 +318,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
   - Photogrammetric Engineering and Remote Sensing
   - Earth Science Informatics
   - Scientific Data
+
 ---
 
 
