@@ -318,6 +318,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
   - Photogrammetric Engineering and Remote Sensing
   - Earth Science Informatics
   - Scientific Data
+---
 <!--
 - GPS Solutions  
 - Scientific Reports  
@@ -326,9 +327,6 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 - Theoretical and Applied Climatology  
 - Discover Cities
 -->
-
----
-
 
 
 
