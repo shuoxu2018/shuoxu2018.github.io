@@ -217,7 +217,7 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
   </div>
   <div class='paper-box-text' markdown="1">
 
-[CarbonGlobe: a global-scale, multi-decade dataset and benchmark for carbon forecasting in forest ecosystems](https://openreview.net/forum?id=M07aAJKH8B) 
+[CarbonGlobe: A global-scale, multi-decade dataset and benchmark for carbon forecasting in forest ecosystems](https://openreview.net/forum?id=M07aAJKH8B) 
 
 
 Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**, Yiqun Xie.
