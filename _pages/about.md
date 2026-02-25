@@ -217,11 +217,11 @@ Qiang Zhang, Ning Wang, Jie Cheng, **Shuo Xu**.
   </div>
   <div class='paper-box-text' markdown="1">
 
-[CarbonGlobe: A Global-Scale, Multi-Decade Dataset and Benchmark for Carbon Forecasting in Forest Ecosystems](https://openreview.net/forum?id=M07aAJKH8B) 
+[CarbonGlobe: a global-scale, multi-decade dataset and benchmark for carbon forecasting in forest ecosystems](https://openreview.net/forum?id=M07aAJKH8B) 
 
 
 Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, **Shuo Xu**, Yiqun Xie.
-<br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025</em>.
+<br><em>NeurIPS 2025 (Datasets and Benchmarks Track), San Diego, CA, 2025 (acceptance rate: ~25%)</em>.
 
 </div>
 </div>
@@ -238,7 +238,7 @@ Zhihao Wang, Lei Ma, George Hurtt, Xiaowei Jia, Yanhua Li, Ruohan Li, Zhili Li, 
 [SimFair: Physics-guided fairness-aware learning with simulation models](https://arxiv.org/abs/2401.15270)  
 
 Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**.
-<br><em>The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024</em>.
+<br><em>The 38th AAAI Conference on Artificial Intelligence (AAAI'24), Vancouver, Canada, 2024 (acceptance rate: ~24%)</em>.
 </div>
 </div>
 
