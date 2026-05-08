@@ -278,7 +278,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 # 💼 Work Experience
 
 ### Research Assistant - University of Maryland  
-*Sep 2021 - Present*  
+*Sep 2021 - January 2026*  
 **NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
 - Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
 - Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
