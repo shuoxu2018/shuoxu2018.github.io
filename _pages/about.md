@@ -19,15 +19,15 @@ redirect_from:
 
 # 👋 About Me
 
-Hi, I am a **Ph.D. candidate**, advised by Dr. Yiqun Xie, in the Department of Geographical Sciences at the **University of Maryland**, College Park. 
-My primary research focus on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
-I have **authored over 11 papers** in top journals and international AI conferences with a total of 
-<a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>470+</strong></a>. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor = 11.4).
+Hi, I am a **Ph.D. graduate** from the Department of Geographical Sciences at the **University of Maryland**, College Park, advised by Dr. Yiqun Xie. I will soon join Cornell University as a Postdoctoral Associate. 
+My primary research focuses on **remote sensing and knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
+I have **authored over 11 papers** in top journals and international AI conferences with <a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>470+</strong></a>. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor: 11.4).
 
 ---
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Received my **Ph.D. degree** from the University of Maryland, College Park!
 - *2026.02*: &nbsp;🎉🎉 Awarded **Dissertation Fellowship**!
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025 (Acceptance Rate: ~25%)**!
 - *2025.01*: &nbsp;🎉🎉 RSE paper among **top 1% most cited** (Environment/Ecology 2021); dataset **46,000+** accesses worldwide!
