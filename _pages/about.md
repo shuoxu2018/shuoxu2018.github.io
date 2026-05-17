@@ -21,7 +21,7 @@ redirect_from:
 
 Hi, I am a Ph.D. graduate from the Department of Geographical Sciences at the University of Maryland, College Park, advised by <a href='https://www.terpconnect.umd.edu/~xie/'>Prof. Yiqun Xie</a>. I will soon join **Cornell University** as a Postdoctoral Associate. 
 My primary research focuses on **remote sensing** and **knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling and multi-source data fusion, all-weather product development, and addressing related scientific challenges.   
-I have authored over **12 papers** in top journals and international AI conferences with <a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>470+</strong></a>. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor: 11.4).
+I have authored over **11 papers** in top journals and international AI conferences with <a href= 'https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'>Google Scholar citations <strong>470+</strong></a>. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)* (Impact Factor: 11.4).
 
 ---
 
