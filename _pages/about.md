@@ -27,6 +27,7 @@ I have authored over **11 papers** in top journals and international AI conferen
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Paper accepted by **KDD 2026 (Acceptance Rate: ~30%)**!
 - *2026.05*: &nbsp;🎉🎉 Received my **Ph.D. degree** from the University of Maryland, College Park!
 - *2026.02*: &nbsp;🎉🎉 Awarded **Dissertation Fellowship**!
 - *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025 (Acceptance Rate: ~25%)**!
