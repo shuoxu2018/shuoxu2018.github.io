@@ -23,7 +23,7 @@ Hi, I am a Postdoctoral Associate at **Cornell University**. I received my Ph.D.
 
 My research focuses on **remote sensing** and **knowledge-guided machine learning**, with expertise in satellite data retrieval, data downscaling, multi-source data fusion, all-weather product development, and related scientific challenges.
 
-I have authored over **11 papers** in leading journals and international AI conferences, with over **490 Google Scholar citations**. I also serve as a **reviewer for 15 international journals**, including *Remote Sensing of Environment (RSE)*.
+I have authored over <strong>11 papers</strong> in leading journals and international AI conferences, with over <a href='https://scholar.google.com/citations?user=f0840jkAAAAJ&hl=en'><strong>490 Google Scholar citations</strong></a>. I also serve as a <strong>reviewer for 15 international journals</strong>, including <em>Remote Sensing of Environment (RSE)</em>.
 
 ---
 
