@@ -268,7 +268,7 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 ---
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+# 📖 Education
 - *2021.09 - 2026.05* Ph.D., Geographic Information Science and Cartography, **University of Maryland**, College Park, MD, USA
   <dd>Dissertation: Artificial Intelligence-Driven Integration of Satellite, In-Situ, and Simulation Data to Enhance Uni-Temporal and Multi-Temporal Variable Estimation</dd>
 
