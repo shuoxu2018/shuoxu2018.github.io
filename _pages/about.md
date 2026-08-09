@@ -72,7 +72,7 @@ I have authored <strong>11+ papers</strong> in leading journals and internationa
 [Knowledge-Guided Learning for Global Carbon Flux Prediction: Integrating High-Level Remote Sensing with Bottom-Up Physical Modeling](https://doi.org/10.1145/3770855.3818927)  
 
   **Shuo Xu**, Zhihao Wang, Ruohan Li, Ruichen Wang, Lei Ma, George C. Hurtt, Xiaowei Jia, Yiqun Xie.
-  <br><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026, AI for Science Track</em>.
+  <br><em>KDD 2026 (AI for Sciences Track), Jeju, Korea, 2026 (acceptance rate: ~30%).</em>
 
   - Developed **DERE**, a knowledge-guided learning framework integrating satellite observations, process-based simulations, and in-situ measurements for global carbon flux prediction.
   - Improved prediction of GPP, RECO, and NEE across multiple carbon-monitoring networks compared with the process-based ED model and state-of-the-art time-series models.
