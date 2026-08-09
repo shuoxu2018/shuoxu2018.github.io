@@ -63,6 +63,26 @@ I have authored <strong>11+ papers</strong> in leading journals and internationa
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge badge-conference">KDD 2026</div>
+      <!-- <img src='images/dere.jpg' alt="DERE" width="100%"> -->
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Knowledge-Guided Learning for Global Carbon Flux Prediction: Integrating High-Level Remote Sensing with Bottom-Up Physical Modeling](https://doi.org/10.1145/3770855.3818927)  
+
+  **Shuo Xu**, Zhihao Wang, Ruohan Li, Ruichen Wang, Lei Ma, George C. Hurtt, Xiaowei Jia, Yiqun Xie.
+  <br><em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026, AI for Science Track</em>.
+
+  - Developed **DERE**, a knowledge-guided learning framework integrating satellite observations, process-based simulations, and in-situ measurements for global carbon flux prediction.
+  - Improved prediction of GPP, RECO, and NEE across multiple carbon-monitoring networks compared with the process-based ED model and state-of-the-art time-series models.
+  - Dataset available on [Hugging Face](https://huggingface.co/datasets/ai-spatial/DERE), with source code available on [GitHub](https://github.com/ai-spatial/DERE).
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge badge-journal">RSE 2021</div>
       <!-- <img src='images/cdf.jpg' alt="CDF MKF" width="100%"> -->
     </div>
