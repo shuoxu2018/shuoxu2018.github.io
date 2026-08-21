@@ -27,14 +27,15 @@ I have authored <strong>12+ papers</strong> in leading journals and internationa
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Paper accepted by **KDD 2026 (Acceptance Rate: ~30%)**!
+- *2026.08*: &nbsp;🎉🎉 Paper accepted by **ACM SIGSPATIAL 2026**!
+- *2026.05*: &nbsp;🎉🎉 Paper accepted by **KDD 2026**!
 - *2026.05*: &nbsp;🎉🎉 Received my **Ph.D. degree** from the University of Maryland, College Park!
 - *2026.02*: &nbsp;🎉🎉 Awarded **Dissertation Fellowship**!
-- *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025 (Acceptance Rate: ~25%)**!
+- *2025.09*: &nbsp;🎉🎉 Paper accepted by **NeurIPS 2025**!
 - *2025.01*: &nbsp;🎉🎉 RSE paper among **top 1% most cited** (Environment/Ecology 2021); dataset **46,000+** accesses worldwide!
-- *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS (Impact Factor: 16.4)**!
-- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN (Impact Factor: 8.0)**!
-- *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024 (Acceptance Rate: ~24%)**!
+- *2024.12*: &nbsp;🎉🎉 Paper published in **IEEE MGRS**!
+- *2024.12*: &nbsp;🎉🎉 Paper published in **STOTEN**!
+- *2024.03*: &nbsp;🎉🎉 Paper published at **AAAI 2024**!
 
 ---
 
@@ -299,12 +300,19 @@ Zhihao Wang, Yiqun Xie, Zhili Li, Xiaowei Jia, Zhe Jiang, Aolin Jia, **Shuo Xu**
 <span class='anchor' id='work-experience'></span>
 # 💼 Work Experience
 
+### Postdoctoral Associate - Cornell University  
+*Jul 2026 - Present*  
+**OpenET and Evapotranspiration Modeling**  
+- Conducting research on OpenET, remote sensing, and machine learning for evapotranspiration estimation.  
+- Exploring the integration of satellite observations, physical models, and in-situ measurements.  
+- Investigating methods to improve evapotranspiration modeling and environmental applications.
+  
 ### Research Assistant - University of Maryland  
 *Sep 2021 - January 2026*  
 **NSF-Funded Project: Improving the Ecosystem Demography (ED) Model with AI**  
-- Developed transformer-based ML frameworks integrating satellite, model, and in-situ data.  
-- Generated time series of carbon stocks, fluxes, and vegetation dynamics.  
-- Applied spatial and temporal analyses.
+- Developed knowledge-guided machine learning frameworks to integrate satellite observations, process-based model simulations, and in-situ measurements.  
+- Designed multi-source and multi-temporal learning methods for estimating carbon stocks, fluxes, and vegetation dynamics.  
+- Investigated spatial and temporal relationships between remote sensing observations and ecosystem processes across large spatial scales.
 
 **NOAA-Funded Project: Enhancing NOAA VIIRS Land Surface Temperature Product**  
 - Designed multi-source fusion algorithms for all-weather VIIRS LST product.  
